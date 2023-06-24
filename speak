@@ -1,0 +1,12 @@
+#!./expect -f
+send "hello world\n"
+
+
+
+
+
+
+
+
+
+
